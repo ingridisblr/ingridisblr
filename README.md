@@ -5,7 +5,7 @@
 # 👋 Hello, world! 🌍 Eu sou Ingrid Rosendo
 
 👩‍💻 Sou uma desenvolvedora front-end.<br>
-🎓 Estudante no **SENAC**.<br>
+🎓 Estudante no 3° período no **SENAC**.<br>
 🌱 Focada em desenvolver minhas habilidades em backend com **C#(ASP.NET)** e frontend com **React**.
 
 <br>
@@ -43,9 +43,5 @@
 </div>
 
 <br><br>
-
-<img src="https://raw.githubusercontent.com/ingridisblr/ingridisblr/output/github-contribution-grid-snake.svg" alt="Gráfico de Contribuições" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=150&section=footer" width="100%"/>
