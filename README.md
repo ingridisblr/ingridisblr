@@ -11,11 +11,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingridisblr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridisblr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
   <a href="https://instagram.com/ingridisbl_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
