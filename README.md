@@ -1,27 +1,80 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=150&section=header" width="100%"/>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=120&section=header" width="100%" />
 
-# 👋 Hello, world! 🌍 Eu sou Ingrid Rosendo
+  # hi, i'm ingrid! 👋🏻
 
-👩‍💻 Sou uma desenvolvedora front-end.<br>
-🎓 Estudante no 3° período no **SENAC**.<br>
-🌱 Focada em desenvolver minhas habilidades em backend com **C#(ASP.NET)** e frontend com **React**.
+  **Full Stack Developer | C# & .NET | Vue.js | React**
+
+  📍 Recife, Pernambuco, Brazil
+
+  *building my world, one commit at a time. 🧱*
+</div>
 
 <br>
 
 <div align="center">
-  <a href="https://instagram.com/ingridisbl_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:ingridisabellle3@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ingrid-isabelle-rosendo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="rosendo.gif" width="350" alt="Ingrid LEGO dando tchau">
 </div>
+
+### 👩🏻‍💻 about me
+
+- 🎓 Studying Systems Analysis and Development (ADS)
+- 💼 Full Stack Development Intern at Excelsior Seguros
+- 💻 Working with C#, .NET and Vue.js
+- 🗃️ Exploring APIs, databases and cloud computing
+- 🌱 Always learning, building and improving
+
+<br clear="right">
+
+---
+
+### 🛠️ my tech stack
+
+<div align="center">
+
+**Back-end & Databases**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql&theme=dark" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=150&section=footer" width="100%"/>
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css&theme=dark" />
+
+<br><br>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+### 🤎 let's connect!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ingrid-isabelle-rosendo-ab0809323/">
+  <img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/ingridisbl_/">
+  <img src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:ingridisabellle3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+  *every great project starts with a single piece. 🧱*
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=100&section=footer" width="100%" />
+
+</div>
