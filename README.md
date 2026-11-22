@@ -1,20 +1,22 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=120&section=header" width="100%" />
-
-  # hi, i'm ingrid! 👋🏻
-
-  **Full Stack Developer | C# & .NET | Vue.js | React**
-
-  📍 Recife, Pernambuco, Brazil
-
-  *building my world, one commit at a time. 🧱*
 </div>
 
-<br>
+<img align="right" width="260" src="./rosendo.gif" alt="Ingrid LEGO dando tchau" />
 
-<div align="center">
-  <img src="rosendo.gif" width="350" alt="Ingrid LEGO dando tchau">
+<h3>hi, i'm ingrid! 👋🏻</h3>
+<p>
+  <strong>Full Stack Developer | C# & .NET | Vue.js | React</strong>
+</p>
+
+<p>📍 Recife, Pernambuco, Brazil</p>
+
+<p><em>building my world, one commit at a time. 🧱</em></p>
+
+<br clear="all" />
+
+<hr>
 </div>
 
 ### 👩🏻‍💻 about me
